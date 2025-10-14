@@ -1,4 +1,4 @@
 # Default code owners
-* @openmfp/frame @openmfp/tsc
+* @openmfp/tsc
 go.mod
 go.sum
