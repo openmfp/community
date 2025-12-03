@@ -4,6 +4,7 @@ The OpenMFP Technical Steering Committee (TSC) is responsible for the technical 
 
 ## Members
 - @aaronschweig
+- @hardl
 - @nexus49 (tsc chair)
 - @mirzakopic
 - @tjbutz
